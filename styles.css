@@ -1,0 +1,15 @@
+.title {
+    color: green;
+}
+body{
+  
+  background-image: url(https://www.bing.com/images/search?view=detailV2&id=AE466BEE32CD2B736A0981EF9ECFE43745233EDB&thid=OIP.pKMIDq-PJrzDRX_JxNAyqgHaHa&mediaurl=https%3a%2f%2fcdn.photoroom.com%2fv1%2fassets-cached.jpg%3fpath%3dbackgrounds_v3%2fwhite%2fPhotoroom_white_background_extremely_fine_texture_only_white_co_b923d1bf-f41f-4fe1-993c-1c75fb26b8d4.jpg&exph=1024&expw=1024&q=white+background+texture&simid=608012992029022419&ck=8489A5A8E371D01A0D8A518A5318574E&itb=0&qpvt=white+background&FORM=IVCLIG);
+  background-position: center;
+  background-repeat:no-repeat;
+}
+div2{ 
+  border: 1px solid black;
+  background-image: url(https://www.bing.com/images/search?view=detailV2&id=AE466BEE32CD2B736A0981EF9ECFE43745233EDB&thid=OIP.pKMIDq-PJrzDRX_JxNAyqgHaHa&mediaurl=https%3a%2f%2fcdn.photoroom.com%2fv1%2fassets-cached.jpg%3fpath%3dbackgrounds_v3%2fwhite%2fPhotoroom_white_background_extremely_fine_texture_only_white_co_b923d1bf-f41f-4fe1-993c-1c75fb26b8d4.jpg&exph=1024&expw=1024&q=white+background+texture&simid=608012992029022419&ck=8489A5A8E371D01A0D8A518A5318574E&itb=0&qpvt=white+background&FORM=IVCLIG);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
